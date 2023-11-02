@@ -1,0 +1,16 @@
+@import "./partials/animations";
+@import "./partials/buttons";
+@import "./partials/colors";
+@import "./partials/fonts";
+@import "./partials/generic-mixins";
+@import "./partials/reset";
+@import "./partials/spacing";
+
+.bg-hero {
+  background-color: $bg-primary;
+}
+
+.hero-h1,
+.hero-text {
+  color: $hero-text-primary;
+}

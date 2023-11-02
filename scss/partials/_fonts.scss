@@ -1,0 +1,17 @@
+$font-default: "Open Sans", sans-serif;
+$fs-1: 0.5rem;
+$fs-2: 1rem;
+$fs-3: 1.25rem;
+$fs-4: 2rem;
+$fs-5: 5rem;
+$fw-1: 400;
+$fw-2: 700;
+
+@mixin title-big($title) {
+  color: $title;
+  font: {
+    size: fs-5;
+    family: $font-default;
+    weight: $fw-2;
+  }
+}

@@ -1,0 +1,26 @@
+$sizes: (
+  sm: 5px,
+  normal: 10px,
+  md: 15px,
+  lg: 25px,
+  xl: 35px,
+  xxl: 50px,
+);
+
+@each $key, $value in $sizes {
+  .padding-block-#{$key} {
+    padding-block: $value;
+  }
+
+  .padding-inline-#{$key} {
+    padding-inline: $value;
+  }
+
+  .margin-block-#{$key} {
+    margin-block: $value;
+  }
+
+  .maring-inline-#{$key} {
+    margin-inline: $value;
+  }
+}

@@ -1,0 +1,120 @@
+.btn-primary {
+  background-color: #0e6cff;
+}
+
+.btn-secondary {
+  background-color: #ff8700;
+}
+
+.btn-tertiary {
+  background-color: #4caf50;
+}
+
+body {
+  margin: 0;
+}
+
+.padding-block-sm {
+  padding-block: 5px;
+}
+
+.padding-inline-sm {
+  padding-inline: 5px;
+}
+
+.margin-block-sm {
+  margin-block: 5px;
+}
+
+.maring-inline-sm {
+  margin-inline: 5px;
+}
+
+.padding-block-normal {
+  padding-block: 10px;
+}
+
+.padding-inline-normal {
+  padding-inline: 10px;
+}
+
+.margin-block-normal {
+  margin-block: 10px;
+}
+
+.maring-inline-normal {
+  margin-inline: 10px;
+}
+
+.padding-block-md {
+  padding-block: 15px;
+}
+
+.padding-inline-md {
+  padding-inline: 15px;
+}
+
+.margin-block-md {
+  margin-block: 15px;
+}
+
+.maring-inline-md {
+  margin-inline: 15px;
+}
+
+.padding-block-lg {
+  padding-block: 25px;
+}
+
+.padding-inline-lg {
+  padding-inline: 25px;
+}
+
+.margin-block-lg {
+  margin-block: 25px;
+}
+
+.maring-inline-lg {
+  margin-inline: 25px;
+}
+
+.padding-block-xl {
+  padding-block: 35px;
+}
+
+.padding-inline-xl {
+  padding-inline: 35px;
+}
+
+.margin-block-xl {
+  margin-block: 35px;
+}
+
+.maring-inline-xl {
+  margin-inline: 35px;
+}
+
+.padding-block-xxl {
+  padding-block: 50px;
+}
+
+.padding-inline-xxl {
+  padding-inline: 50px;
+}
+
+.margin-block-xxl {
+  margin-block: 50px;
+}
+
+.maring-inline-xxl {
+  margin-inline: 50px;
+}
+
+.bg-hero {
+  background-color: #640fc5;
+}
+
+.hero-h1,
+.hero-text {
+  color: #f4f4f4;
+}/*# sourceMappingURL=style.css.map */

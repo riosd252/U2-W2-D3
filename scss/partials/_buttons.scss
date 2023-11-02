@@ -1,0 +1,11 @@
+$btn-colors: (
+  primary: #0e6cff,
+  secondary: #ff8700,
+  tertiary: #4caf50,
+);
+
+@each $key, $value in $btn-colors {
+  .btn-#{$key} {
+    background-color: $value;
+  }
+}
