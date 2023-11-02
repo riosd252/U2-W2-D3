@@ -10,5 +10,11 @@
   box-shadow: $shadow;
 }
 
-@mixin grid() {
+@mixin grid($value: 4) {
+  display: flex;
+  flex-wrap: wrap;
+
+  > * {
+    width: 100% / $value;
+  }
 }

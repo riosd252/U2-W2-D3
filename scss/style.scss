@@ -14,3 +14,7 @@
 .hero-text {
   color: $hero-text-primary;
 }
+
+.flex {
+  @include grid(4);
+}

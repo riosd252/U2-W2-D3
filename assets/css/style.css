@@ -117,4 +117,12 @@ body {
 .hero-h1,
 .hero-text {
   color: #f4f4f4;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex > * {
+  width: 25%;
 }/*# sourceMappingURL=style.css.map */
